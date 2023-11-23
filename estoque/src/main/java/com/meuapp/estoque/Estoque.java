@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class Estoque implements GerenciadorDeEstoque {
 
     private Connection connect() {
-        String url = "jdbc:sqlite:path_to_your_database_file.db";
+        String url = "jdbc:sqlite:C:/Users/Heito/OneDrive/Documentos/SQLite/db/estoque.db/";
         Connection conn = null;
         try {
             conn = DriverManager.getConnection(url);
