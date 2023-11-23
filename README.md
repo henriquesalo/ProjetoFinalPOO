@@ -9,4 +9,4 @@ Integrantes:
 
 > Diagrama de Classes do Projeto:
 
-![DiagramaDeClasses](URL_da_Imagem)
+![DiagramaDeClasses](https://github.com/henriquesalo/ProjetoFinalPOO/blob/main/DiagramaDeClasses/Diagrama.png)
